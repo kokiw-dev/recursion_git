@@ -1,0 +1,37 @@
+.box {
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.1em;
+    width:6em;
+    text-align: center;
+    margin:0.5em;
+    color:white;
+    float: left;
+}
+
+.box:hover{
+    background-color: gray;
+}
+
+.angry{
+    background-color: magenta;
+}
+
+.bad {
+    background-color: dodgerblue;
+}
+.sad {
+    background-color: skyblue;
+
+}
+.happy {
+    background-color: orange;
+}
+.disgusted {
+    background-color:  saddlebrown;
+}
+.surprised {
+    background-color: darkkhaki;
+
+}
